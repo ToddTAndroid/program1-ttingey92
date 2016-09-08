@@ -1,9 +1,13 @@
-# Program # X
-Name:  
-Cosc 5730 or 4730
+# Program # 1
+Name: Todd Tingey
+Cosc 4730
 
-Description:  (how to run the program, phone/emulator screen size, android version ie 7.0)
+Description: 
+	Run the app by clicking on its icon
+	Once the app is running, just type a name into the text field and tap the "Say Hello!" button. 
+
+	Run on default Nexus 5x emulator w/ 5.2" screen
 
 Anything that doesn't work:
 
-
+Everything working. 
