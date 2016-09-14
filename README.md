@@ -14,7 +14,7 @@ Everything working.
 
 Grade
 ===
-Final grade: 10/10
+Final grade: 20/20
 
 **Everything working and coded as expected.**
 
