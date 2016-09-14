@@ -11,3 +11,10 @@ Description:
 Anything that doesn't work:
 
 Everything working. 
+
+Grade
+===
+Final grade: 10/10
+
+**Everything working and coded as expected.**
+
